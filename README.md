@@ -10,6 +10,6 @@
 
 <div>
   <a href="https://github.com/renigoms">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renigoms&show_icons=true&theme=Halckon&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renigoms&layout=compact&langs_count=7&theme=Halcyon"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renigoms&show_icons=true&theme=nightfall&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renigoms&layout=compact&langs_count=7&theme=nightfall"/>
 </div>
